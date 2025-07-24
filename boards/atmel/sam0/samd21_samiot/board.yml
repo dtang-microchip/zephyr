@@ -1,0 +1,6 @@
+board:
+  name: samd21_samiot
+  full_name: SAM D21 SAM IOT
+  vendor: atmel
+  socs:
+    - name: samd21g18a
